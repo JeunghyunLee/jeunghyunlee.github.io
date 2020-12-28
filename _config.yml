@@ -20,7 +20,7 @@ title                    : "Jeunghyun Lee"
 title_separator          : "-"
 subtitle                 : "Last updated Jan, 2021" # site tagline that appears below site title in masthead
 name                     : "Jeunghyun"
-description              : "Graduate student majoring in Clinical Psychology, CCS-lab, Seoul National University."
+description              : ""
 url                      : "https://jeunghyunlee.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://jeunghyunlee.github.io/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jeunghyun Lee"
   avatar           : "/assets/images/my_picture.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Graduate student majoring in Clinical Psychology, CCS-lab, Seoul National University"
   location         : "Seoul, Korea"
   email            : 
   links:
