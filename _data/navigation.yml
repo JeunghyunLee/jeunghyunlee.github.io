@@ -20,7 +20,7 @@ foo:
 # main links
 main:
   - title: "About"
-    url: /docs/about/
+    url: /about/
   - title: "CV"
     url: "/cv/"
   - title: "Research Interests"
