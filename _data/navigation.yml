@@ -42,6 +42,6 @@ docs:
   - title: About me
     children:
       - title: "About"
-        url: /docs/about/
+        url: /about/
   
 
