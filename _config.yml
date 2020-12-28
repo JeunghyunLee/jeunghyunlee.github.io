@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default" # "air", "aqua", "contrast", "
 locale                   : "en-US"
 title                    : "Jeunghyun Lee"
 title_separator          : "-"
-subtitle                 : "grad student" # site tagline that appears below site title in masthead
+subtitle                 : "Graduate student majoring in Clinical Psychology, CCS-lab, Seoul National University." # site tagline that appears below site title in masthead
 name                     : "Jeunghyun"
 description              : "Graduate student majoring in Clinical Psychology, CCS-lab, Seoul National University."
 url                      : "https://jeunghyunlee.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -27,7 +27,7 @@ repository               : "https://jeunghyunlee.github.io/" # GitHub username/r
 teaser                   : "/assets/images/my_picture.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/main_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Jeunghyun Lee" # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs            : true # true, false (default)
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
