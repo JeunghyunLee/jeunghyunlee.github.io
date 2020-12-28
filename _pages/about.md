@@ -22,7 +22,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
-## Notable Features
+## About me
 
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
