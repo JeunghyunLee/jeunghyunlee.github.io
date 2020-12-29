@@ -7,5 +7,5 @@ last_update_at: 2021-01-01T14:51:23-04:00
 toc: true
 
 ---
-[get the PDF](/docs/my_cv.pdf)
-<embed src="my_cv.pdf" width="800px" height="2100px" />
+[click to view](/docs/my_cv.pdf)
+<embed src="https://jeunghyunlee.github.io/docs/my_cv.pdf" width="800px" height="2100px" />
