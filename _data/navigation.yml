@@ -19,8 +19,6 @@ foo:
 
 # main links
 main:
-  - title: "Welcome to my website!"
-    url: /
   - title: "About"
     url: /about/
   - title: "CV"
@@ -32,13 +30,7 @@ main:
   - title: "Publications"
     url: "/publications/"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  
+
 # documentation links
 docs:
   - title: About me
@@ -53,7 +45,7 @@ docs:
     children:
       - title: "Research Interests"
         url: /research-interests/
-  - title: Projects
+  - title: Blogs
     children:
       - title: "Blogs"
         url: /blogs/
