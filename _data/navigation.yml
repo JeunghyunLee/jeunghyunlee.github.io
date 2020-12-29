@@ -48,7 +48,7 @@ docs:
   - title: Blogs
     children:
       - title: "Blogs"
-        url: /blogs/
+        url: /blogs-archive/
   - title: Publications
     children:
       - title: "Publications"
