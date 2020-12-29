@@ -16,6 +16,6 @@ I am mainly interested in **clinical psychology** and **decision neuroscience**.
 
 ### Follow me on Twitter!
 
-[click to view]("https://twitter.com/JeunghyunLee")
+[click to view](https://twitter.com/JeunghyunLee)
 
 ---

@@ -19,6 +19,8 @@ foo:
 
 # main links
 main:
+  - title: "Welcome to my website!"
+    url: /
   - title: "About"
     url: /about/
   - title: "CV"
@@ -53,8 +55,8 @@ docs:
         url: /research-interests/
   - title: Projects
     children:
-      - title: "Projects"
-        url: /projects/
+      - title: "Blogs"
+        url: /blogs/
   - title: Publications
     children:
       - title: "Publications"
