@@ -22,7 +22,7 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: "/cv/"
+    url: /cv/
   - title: "Research Interests"
     url: "/research-interests/"
   - title: "Projects"
@@ -43,5 +43,8 @@ docs:
     children:
       - title: "About"
         url: /about/
-  
+  - title: Curriculum Vitae
+    children:
+      - title: "CV"
+        url: /cv/
 
