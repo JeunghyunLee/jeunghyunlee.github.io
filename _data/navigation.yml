@@ -47,4 +47,16 @@ docs:
     children:
       - title: "CV"
         url: /cv/
-
+  - title: Research Interests
+    children:
+      - title: "Research Interests"
+        url: /research-interests/
+  - title: Projects
+    children:
+      - title: "Projects"
+        url: /projects/
+  - title: Publications
+    children:
+      - title: "Publications"
+        url: /publications/
+        
