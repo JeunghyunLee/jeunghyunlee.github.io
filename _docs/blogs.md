@@ -1,4 +1,3 @@
-
 ---
 permalink: /blogs/
 title: "Blogs"

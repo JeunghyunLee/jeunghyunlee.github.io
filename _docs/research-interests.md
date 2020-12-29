@@ -1,4 +1,3 @@
-
 ---
 permalink: /research-interests/
 title: "Research Interests"
