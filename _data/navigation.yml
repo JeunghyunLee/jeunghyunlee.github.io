@@ -24,11 +24,11 @@ main:
   - title: "CV"
     url: /cv/
   - title: "Research Interests"
-    url: "/research-interests/"
+    url: /research-interests/
   - title: "Blogs"
-    url: "/blogs/"
+    url: /blogs/
   - title: "Publications"
-    url: "/publications/"
+    url: /publications/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
 
 # documentation links
