@@ -1,4 +1,5 @@
 ---
+Title: Welcome!
 layout: splash
 permalink: /
 date: 2021-01-01T11:48:41-04:00
@@ -9,10 +10,9 @@ header:
   actions:
     - label: "Read more"
       url: "https://jeunghyunlee.github.io/about/"
-  caption: "Photo: [**University of Korea**]"
-excerpt: "home page"
+excerpt: "Hi, my name is **Jeunghyun**. Welcome to my website."
 intro:
-  - excerpt: 'Hi! welcome to my website! `type="center"`'
+  - excerpt: 'I am a graduate student studying clinical psychology along with neuroimaging techniques and computational modeling. I love surfing, and to to catch images of my daily life on camera.'`type="center"`
 feature_row:
   - image_path: assets/images/splash-image-1.png
     alt: "placeholder image 1"
