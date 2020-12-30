@@ -33,24 +33,16 @@ main:
 
 # documentation links
 docs:
-  - title: About me
+  - title: Introudce myself
     children:
-      - title: "About"
-        url: /about/
-  - title: Curriculum Vitae
-    children:
-      - title: "CV"
-        url: /cv/
-  - title: Research Interests
-    children:
-      - title: "Research Interests"
-        url: /research-interests/
-  - title: Blogs
-    children:
-      - title: "Blogs"
-        url: /blogs-archive/
-  - title: Publications
-    children:
-      - title: "Publications"
-        url: /publications/
+    - title: "about"
+      url: /about/
+    - title: "CV"
+      url: /cv/
+    - title: "Research Interests"
+      url: /research-interests/
+  - title: "Blogs"
+    url: /blogs-archive/
+  - title: "Publications"
+    url: /publications/
         
