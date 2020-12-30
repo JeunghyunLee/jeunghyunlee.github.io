@@ -10,7 +10,6 @@ last_modified_at: 2021-01-01T14:51:23-04:00
 author_profile: true
 
 ---
-
 ## Hi!
 I am a graduate student at [**Computational Clinical Science Laboratory**](https://ccs-lab.github.io/) (PI: Woo-young Ahn). I received a Bachelor’s degree in Psychology and Public Governance & Leadership from Korea University (Feb 2020).
 
