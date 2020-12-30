@@ -3,6 +3,7 @@ layout: posts
 title: "Posts by year"
 permalink: /blogs-archive/
 author_profile: true
+
 ---
 
 {% capture written_label %}'None'{% endcapture %}
