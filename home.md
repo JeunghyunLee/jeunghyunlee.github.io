@@ -8,8 +8,8 @@ header:
   overlay_image: /assets/images/splash-image-1.png
   actions:
     - label: "Read more"
-      url: "https://github.com/jeunghyunlee/jeunghyunlee/"
-  caption: "Photo: [**University of Korea**](https://unsplash.com)"
+      url: "https://jeunghyunlee.github.io/about/"
+  caption: "Photo: [**University of Korea**]"
 excerpt: "home page"
 intro:
   - excerpt: 'Hi! welcome to my website! `type="center"`'
