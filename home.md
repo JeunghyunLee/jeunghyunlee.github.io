@@ -11,9 +11,9 @@ header:
       url: "https://jeunghyunlee.github.io/about/"
 excerpt: "Hi, my name is **Jeunghyun**. Welcome to my website."
 intro:
-  - excerpt: 'I am a graduate student studying clinical psychology along with neuroimaging techniques and computational modeling. I love surfing, and to to catch images of my daily life on camera.'`type="center"`
+  - excerpt: 'I am a graduate student studying clinical psychology along with neuroimaging techniques and computational modeling. I love surfing, and to to catch images of my daily life on camera.`type="center"`'
 feature_row:
-  - image_path: assets/images/splash-image-1.png
+  - image_path: /assets/images/splash-image-1.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
