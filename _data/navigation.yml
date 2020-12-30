@@ -26,23 +26,20 @@ main:
   - title: "Research Interests"
     url: /research-interests/
   - title: "Blogs"
-    url: /blogs-archive/
+    url: /blogs-collection/
   - title: "Publications"
-    url: /publications/
+    url: /publications-archive/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
 
 # documentation links
-docs:
-  - title: Introudce myself
-    children:
-    - title: "about"
-      url: /about/
-    - title: "CV"
-      url: /cv/
-    - title: "Research Interests"
-      url: /research-interests/
-  - title: "Blogs"
-    url: /blogs-archive/
-  - title: "Publications"
-    url: /publications/
+# docs:
+#   - title: Introudce myself
+#     children:
+#     - title: "about"
+#       url: /about/
+#     - title: "CV"
+#       url: /cv/
+#     - title: "Research Interests"
+#       url: /research-interests/
+
         

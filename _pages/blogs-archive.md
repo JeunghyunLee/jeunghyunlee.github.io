@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: collection
 title: "Blogs"
-permalink: /blogs-archive/
+permalink: /blogs-collection/
 author_profile: true
 ---
 
@@ -15,7 +15,7 @@ author_profile: true
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
-  {% for post in collection.docs %}
+  {% for post in collection.blogs %}
     {% unless collection.output == false or collection.label == "posts" %}
       {% include archive-single.html %}
     {% endunless %}
