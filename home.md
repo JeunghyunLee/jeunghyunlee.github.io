@@ -8,51 +8,40 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash-image-1.png
   actions:
-    - label: "Read more"
+    - label: "About me"
       url: "https://jeunghyunlee.github.io/about/"
-excerpt: "Hi, my name is **Jeunghyun**. Nice to meet you."
+excerpt: "Hi, my name is **Jeunghyun**. Welcome to my website!"
 intro:
-  - excerpt: 'I am a graduate student studying *clinical psychology* along with *neuroimaging techniques* and *computational modeling*. I love *surfing*, and to to *catch images* of my daily life on camera.'
+  - excerpt: 'I am a graduate student studying *clinical psychology* along with *neuroimaging techniques* and *computational modeling*. I love to catch images of daily life on camera.'
 feature_row:
-  - image_path: /assets/images/splash-image-1.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/splash-image-1.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+  - image_path: /assets/images/splash-image-2.png
+    alt: "projects"
+    title: "Projects"
+    excerpt: "My recent **projects** and **presentations**"
+    url: "https://jeunghyunlee.github.io/research-interests/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: /assets/images/splash-image-1.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/splash-image-2.png
+    alt: "cv"
+    title: "CV"
+    excerpt: "This is my Curriculum Vitae."
+    url: "https://jeunghyunlee.github.io/cv/"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+  - image_path: /assets/images/splash-image-3.png
+    title: "Blogs"
+    excerpt: "Check out recent news of mine."
+    url: "https://jeunghyunlee.github.io/blogs-archive/"
+    btn_label: "Read More"
+    btn_class: "btn--info"
 feature_row2:
-  - image_path: /assets/images/splash-image-1.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+  - image_path: /assets/images/splash-image-3.png
+    alt: "publications"
+    title: "Publications"
+    excerpt: 'My recent publication `type="left"`'
+    url: "https://jeunghyunlee.github.io/publications-archive/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/splash-image-1.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/splash-image-1.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -61,6 +50,3 @@ feature_row4:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
