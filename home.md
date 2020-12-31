@@ -41,7 +41,7 @@ feature_row2:
     excerpt: "My recent publication"
     url: "https://jeunghyunlee.github.io/publications-archive/"
     btn_label: "Read More"
-    btn_class: "btn--danger.btn--primary.btn--large"
+    btn_class: "btn--danger.btn--large"
 ---
 
 {% include feature_row id="intro" type="center" %}
