@@ -8,14 +8,12 @@ layouts_gallery:
     alt: "splash layout example"
 last_modified_at: 2021-01-01T14:51:23-04:00
 author_profile: true
-
 ---
 ## Hi!
 {% include gallery id="layouts_gallery" %}
-
 I am a graduate student at [**Computational Clinical Science Laboratory**](https://ccs-lab.github.io/) (PI: Woo-young Ahn). I received a Bachelor’s degree in Psychology and Public Governance & Leadership from Korea University (Feb 2020).
 
-[My CV]({{ "/docs/cv/" | relative_url }}){: .btn .btn--info.btn--primary}
+[View CV]({{ "/docs/cv/" | relative_url }}){: .btn .btn--info}
 
 ## Research Interest
 I am mainly interested in **clinical psychology** and **decision neuroscience**. Particularly, I seek to understand the roles of stress in decision making and how they are implicated in certain psychiatric conditions using **neurocomputational** and **machine learning** approaches. I aim to become a scientist who builds tools that help people make better decisions in the realm of psychiatric issues. To this end, I am eager to combine computational modeling and neuroscience with clinical psychology.
