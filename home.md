@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/spalsh-image-6.png
     alt: "cv"
     title: "CV"
-    excerpt: "This is my Curriculum Vitae."
+    excerpt: "Curriculum Vitae."
     url: "https://jeunghyunlee.github.io/cv/"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -35,13 +35,13 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row2:
-  - image_path: /assets/images/splash-image-3.png
+  - image_path: /assets/images/splash-image-7.png
     alt: "publications"
     title: "Publications"
-    excerpt: 'My recent publication `type="left"`'
+    excerpt: 'My recent publication'
     url: "https://jeunghyunlee.github.io/publications-archive/"
     btn_label: "Read More"
-    btn_class: "btn--info"
+    btn_class: "btn--danger"
 ---
 
 {% include feature_row id="intro" type="center" %}
