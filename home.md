@@ -38,7 +38,7 @@ feature_row2:
   - image_path: /assets/images/splash-image-7.png
     alt: "publications"
     title: "Publications"
-    excerpt: 'My recent publication'
+    excerpt: "My recent publication"
     url: "https://jeunghyunlee.github.io/publications-archive/"
     btn_label: "Read More"
     btn_class: "btn--danger"
