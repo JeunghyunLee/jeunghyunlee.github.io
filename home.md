@@ -14,21 +14,21 @@ excerpt: "Hi, my name is **Jeunghyun**. Welcome to my website!"
 intro:
   - excerpt: 'I am a graduate student studying *clinical psychology* along with *neuroimaging techniques* and *computational modeling*. 
 feature_row:
-  - image_path: /assets/images/splash-idea.png
+  - image_path: /assets/images/splash-image-7.png
     alt: "projects"
     title: "Projects"
     excerpt: "My recent **projects** and **presentations**"
     url: "https://jeunghyunlee.github.io/research-interests/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: /assets/images/splash-cv.png
+  - image_path: /assets/images/splash-image-7.png
     alt: "cv"
     title: "CV"
     excerpt: "Curriculum Vitae."
     url: "https://jeunghyunlee.github.io/cv/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: /assets/images/splash-blogs.png
+  - image_path: /assets/images/splash-image-7.png
     title: "Blogs"
     excerpt: "Check out recent news of mine."
     url: "https://jeunghyunlee.github.io/blogs-archive/"
