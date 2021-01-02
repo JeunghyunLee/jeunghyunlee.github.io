@@ -1,5 +1,6 @@
 ---
 title: "Graduation with B.A. in Psychology"
+related: false
 categories:
   - education
   - event
