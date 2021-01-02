@@ -11,7 +11,6 @@ author_profile: true
 
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/grad_1.png
-alt: "graduation"){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/grad_1.png){: .align-center}
 
 I received a Bachelor’s degree in Psychology and Public Governance & Leadership from Korea University (Feb 2020).  
