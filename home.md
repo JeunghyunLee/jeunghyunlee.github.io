@@ -35,13 +35,13 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row2:
-  - image_path: /assets/images/splash-image-7.png
+  - image_path: /assets/images/splash-image-6.png
     alt: "publications"
     title: "Publications"
     excerpt: "My recent publication"
     url: "https://jeunghyunlee.github.io/publications-archive/"
     btn_label: "Read More"
-    btn_class: "btn--danger"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
