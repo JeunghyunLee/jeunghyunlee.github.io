@@ -10,7 +10,7 @@ header:
   actions:
     - label: "About me"
       url: "https://jeunghyunlee.github.io/about/"
-excerpt: "Hi, my name is **Jeunghyun**. Welcome to my website!"
+excerpt: "Hi, my name is **Jeunghyun**."
 intro:
   - excerpt: 'I am a graduate student studying *clinical psychology* along with *neuroimaging techniques* and *computational modeling*.' 
 feature_row:
