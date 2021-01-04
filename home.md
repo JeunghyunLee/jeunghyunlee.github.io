@@ -6,7 +6,7 @@ date: 2021-01-01T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/splash-image-1.png
+  overlay_image: /assets/images/splash-image-6_1.png
   actions:
     - label: "About me"
       url: "https://jeunghyunlee.github.io/about/"
