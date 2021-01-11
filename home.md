@@ -14,21 +14,21 @@ excerpt: "Hi, my name is **Jeunghyun**."
 intro:
   - excerpt: 'I am a graduate student studying *clinical psychology* along with *neuroimaging techniques* and *computational modeling*.' 
 feature_row:
-  - image_path: 
+  - image_path: assets/images/splash-idea.png
     alt: "projects"
     title: "Projects"
     excerpt: "My recent **projects** and **presentations**"
     url: "https://jeunghyunlee.github.io/research-interests/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path:
+  - image_path: assets/images/splash-cv.png
     alt: "cv"
     title: "CV"
     excerpt: "Curriculum Vitae."
     url: "https://jeunghyunlee.github.io/cv/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: 
+  - image_path: assets/images/splash-blogs.png
     alt: "publications"
     title: "Publications"
     excerpt: "My recent publication"
@@ -40,6 +40,4 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
 
