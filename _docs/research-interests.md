@@ -14,7 +14,7 @@ I am mainly interested in **clinical psychology** and **decision neuroscience**.
 * **if cortisol is indeed a prosocial hormone** 
 * **whether the prosocial behaviors would be amplified among the stressed males, even toward the distant others**.
 * In this project, we tested various computational models and confirmed a winning model. 
-* [click to view details](/docs/project_1_socialdistance.pdf)
+* [click to view details](/_docs/project_1_socialdistance.pdf)
 
 ## Presentations
 
