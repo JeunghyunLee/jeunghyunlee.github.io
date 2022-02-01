@@ -4,13 +4,13 @@ layout: splash
 permalink: /
 date: 2021-01-01T11:48:41-04:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/splash-image-2.png
+  overlay_color: "#fff"
+  overlay_filter: "0"
+  overlay_image: /assets/images/home_image.png
   actions:
     - label: "About me"
       url: "https://jeunghyunlee.github.io/about/"
-excerpt: "Hi, my name is **Jeunghyun**."
+excerpt: "Hi, my name is **Jeung-Hyun**."
 intro:
   - excerpt: 'I am a graduate student studying *clinical psychology* along with *neuroimaging techniques* and *computational modeling*.' 
 feature_row:
