@@ -1,8 +1,7 @@
 ---
 title: Hi!
-layout: collection
-permalink: /portfolio/
-entries_layout: grid
+layout: archive-single
+permalink: /
 date: 2021-01-01T11:48:41-04:00
 header:
   overlay_color: "#fff"
@@ -14,7 +13,7 @@ header:
       url: "https://jeunghyunlee.github.io/about/"
 excerpt: "Welcome to **Jeung-Hyun**'s web page."
 intro:
-  - excerpt: 'I am a graduate student studying *clinical psychology* along with *neuroimaging techniques* and *computational modeling*.' 
+  - excerpt: 'I am a graduate student studying *clinical psychology** along with *neuroimaging techniques* and *computational modeling*.' 
 feature_row:
   - image_path: assets/images/splash-idea.png
     alt: "projects"
