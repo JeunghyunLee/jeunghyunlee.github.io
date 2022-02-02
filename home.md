@@ -1,7 +1,8 @@
 ---
-title: Welcome!
-layout: splash
-permalink: /
+title: Hi!
+layout: collection
+permalink: /portfolio/
+entries_layout: grid
 date: 2021-01-01T11:48:41-04:00
 header:
   overlay_color: "#fff"
@@ -11,7 +12,7 @@ header:
   actions:
     - label: "About me"
       url: "https://jeunghyunlee.github.io/about/"
-excerpt: "Hi, my name is **Jeung-Hyun**."
+excerpt: "Welcome to **Jeung-Hyun**'s web page."
 intro:
   - excerpt: 'I am a graduate student studying *clinical psychology* along with *neuroimaging techniques* and *computational modeling*.' 
 feature_row:
