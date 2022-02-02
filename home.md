@@ -1,17 +1,14 @@
 ---
-title: Hi!
-layout: splash
+title: Welcome to **Jeung-Hyun**'s web page!
+layout: single
 permalink: /
+hidden: true
 date: 2021-01-01T11:48:41-04:00
 header:
   overlay_color: "#fff"
   overlay_filter: "0"
   overlay_image: /assets/images/home_image.png
   text_color: black
-  actions:
-    - label: "About me"
-      url: "https://jeunghyunlee.github.io/about/"
-excerpt: "Welcome to **Jeung-Hyun**'s web page."
 intro:
   - excerpt: 'I am a graduate student studying *clinical psychology** along with *neuroimaging techniques* and *computational modeling*.' 
 feature_row:
