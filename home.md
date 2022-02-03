@@ -11,13 +11,12 @@ header:
     url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
 
 intro:
-  - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*.'
+  - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*. `type="center"` '
   
 feature_row:
   - image_path: assets/images/splash-idea.png
     alt: "projects"
     title: "Projects"
-    excerpt: "projects"
     url: "https://jeunghyunlee.github.io/research-interests/"
     btn_label: "Read More"
     btn_class: "btn--primary"
