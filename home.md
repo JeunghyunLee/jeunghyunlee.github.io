@@ -3,9 +3,7 @@ layout: single
 permalink: /
 hidden: true
 header:
-  overlay_color: "#66b5ed"
-  overlay_filter: "0.7"
-  overlay_image: /assets/images/home_image.png
+  image: /assets/images/home_image.png
   text_color: black
   actions:
   - label: "<i class='fa-regular fa-volume'></i> How to read my name "
