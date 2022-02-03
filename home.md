@@ -24,17 +24,20 @@ feature_row:
   - image_path: assets/images/splash-cv.png
     alt: "cv"
     title: "CV"
+    excerpt: "cv"
     url: "https://jeunghyunlee.github.io/cv/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/splash-blogs.png
     alt: "publications"
     title: "Publications"
+    excerpt: "publications"
     url: "https://jeunghyunlee.github.io/publications-archive/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
+
 {% include feature_row %}
 
