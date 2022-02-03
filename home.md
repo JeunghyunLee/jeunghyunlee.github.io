@@ -1,5 +1,6 @@
 ---
-title: Hello. {: .text-center} 
+title: Hello. 
+{: .text-center} 
 layout: single
 permalink: /
 hidden: true
