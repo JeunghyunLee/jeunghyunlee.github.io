@@ -35,7 +35,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include header id="header" type="center" %}
 
 {% include feature_row id="intro" type="center" %}
 
