@@ -8,12 +8,10 @@ header:
   overlay_image: /assets/images/home_image.png
   text_color: white
   actions:
-  - label: "<i class='fa-regular fa-volume'></i> How to read my name "
+  - label: "<i class='fal fa-headphones'></i> How to read my name "
     url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
+    - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*. '
 
-intro:
-  - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*. '
-  
 feature_row:
   - image_path: assets/images/splash-idea.png
     alt: "projects"
