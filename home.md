@@ -1,17 +1,20 @@
----
-title: Hello. 
+--- 
 layout: single
 permalink: /
 hidden: true
-date: 2021-01-01T11:48:41-04:00
 header:
   overlay_image: /assets/images/home_image.png
   text_color: black
+  actions:
+    - label: "How to read my name"
+    url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
+    btn_class: "btn--info" 
+excerpt: > 
+    Hello. <large></large>
 
 intro:
   - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*.'
-  url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
-
+  
 feature_row:
   - image_path: assets/images/splash-idea.png
     alt: "projects"
