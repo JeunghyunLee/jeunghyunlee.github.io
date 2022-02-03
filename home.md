@@ -4,6 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#66b5ed"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/home_image.png
   text_color: black
   actions:
