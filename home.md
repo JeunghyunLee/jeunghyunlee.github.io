@@ -7,7 +7,6 @@ date: 2021-01-01T11:48:41-04:00
 header:
   overlay_image: /assets/images/home_image.png
   text_color: black
-  text_size: 30pt
 
 intro:
   - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*.'
