@@ -1,16 +1,17 @@
 ---
-title: Welcome to **Jeung-Hyun**'s web page!
+title: Hello. 
 layout: single
 permalink: /
 hidden: true
 date: 2021-01-01T11:48:41-04:00
 header:
-  overlay_color: "#fff"
-  overlay_filter: "0"
   overlay_image: /assets/images/home_image.png
   text_color: black
+  actions:
+    - label: "<i class='read-name'></i> How to read my name"
+      url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
 intro:
-  - excerpt: 'I am a graduate student studying *clinical psychology** along with *neuroimaging techniques* and *computational modeling*.' 
+  - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*.' 
 feature_row:
   - image_path: assets/images/splash-idea.png
     alt: "projects"
