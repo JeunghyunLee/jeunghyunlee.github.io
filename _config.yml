@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jeunghyun Lee"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate student majoring in **Clinical Psychology**, CCS-lab[], Seoul National University"
+  bio              : "Graduate student majoring in **Clinical Psychology**, [CCS-lab](https://ccs-lab.github.io/), Seoul National University"
   location         : "Seoul, Korea"
   email            : 
   links:
