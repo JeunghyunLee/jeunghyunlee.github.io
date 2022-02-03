@@ -11,8 +11,7 @@ header:
 intro:
   - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*.'
   url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
-  btn_label: "How to read my name"
-  btn_class: "btn--info"
+
 feature_row:
   - image_path: assets/images/splash-idea.png
     alt: "projects"
