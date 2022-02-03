@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/home_image.png
   text_color: white
   actions:
-  - label: "<i class='fal fa-headphones'></i> How to read my name "
+  - label: "<i class='fas fa-headphones'></i> How to read my name "
     url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
 
 intro:
