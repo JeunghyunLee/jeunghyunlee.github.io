@@ -17,6 +17,7 @@ feature_row:
   - image_path: assets/images/splash-idea.png
     alt: "projects"
     title: "Projects"
+    excerpt: "projects"
     url: "https://jeunghyunlee.github.io/research-interests/"
     btn_label: "Read More"
     btn_class: "btn--primary"
