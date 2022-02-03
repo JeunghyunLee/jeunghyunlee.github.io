@@ -1,5 +1,5 @@
 ---
-title: Hello. 
+title: {Hello.: .text-center} 
 layout: single
 permalink: /
 hidden: true
@@ -10,6 +10,7 @@ header:
   actions:
     - label: "<i class='read-name'></i> How to read my name"
       url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
+      btn_class: "btn--info"
 intro:
   - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*.' 
 feature_row:
