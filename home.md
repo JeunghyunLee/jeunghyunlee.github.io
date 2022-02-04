@@ -12,7 +12,7 @@ header:
     url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
 
 intro:
-  - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*. '
+  - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*. '<br />
   
 feature_row:
   - image_path: assets/images/splash-idea.png
