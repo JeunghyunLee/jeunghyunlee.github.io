@@ -6,15 +6,12 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_image.png
-  text_color: black
   actions:
   - label: "<i class='fas fa-headphones'></i> How to read my name "
     url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
-    excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*. '
 excerpt: >
-      A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-      <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.21.0">Latest release v4.21.0</a></small>
-
+<small><center> I study computational psychiatry and decision neuroscience. </center></small>
+      
 intro: " "
   
 feature_row:
