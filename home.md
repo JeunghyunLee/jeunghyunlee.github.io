@@ -10,9 +10,11 @@ header:
   actions:
   - label: "<i class='fas fa-headphones'></i> How to read my name "
     url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
-
-feature_row:
+    excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*. '
+intro:
   - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*. '
+  
+feature_row:
   - image_path: assets/images/splash-idea.png
     alt: "projects"
     title: "Projects"
