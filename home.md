@@ -11,7 +11,7 @@ header:
     url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
     excerpt: ' '
 excerpt: >
-    I study computational psychiatry and decision neuroscience. <br />     
+    <center>I study computational psychiatry and decision neuroscience. <br /></center>     
 intro: " "
   
 feature_row:
