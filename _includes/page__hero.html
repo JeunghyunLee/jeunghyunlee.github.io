@@ -34,13 +34,13 @@
       {% include page__meta.html %}
       {% if page.header.cta_url %}
       <center><p>
-            <a href="{{ page.header.cta_url | relative_url }}" class="btn btn--info btn--large" >{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+            <a href="{{ page.header.cta_url | relative_url }}" class="btn btn--primary btn--large" >{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
             </p></center>
       {% endif %}
       {% if page.header.actions %}
         <p>
         {% for action in page.header.actions %}
-          <div><a href="{{ action.url | relative_url }}" class="btn btn--info btn--large" >{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></div>
+          <center><a href="{{ action.url | relative_url }}" class="btn btn--primary btn--large" >{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></center>
         {% endfor %}
       {% endif %}
     </div>
