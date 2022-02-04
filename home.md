@@ -20,19 +20,19 @@ feature_row:
     title: "Projects"
     url: "https://jeunghyunlee.github.io/research-interests/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
   - image_path: assets/images/splash-cv.png
     alt: "cv"
     title: "CV"
     url: "https://jeunghyunlee.github.io/cv/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
   - image_path: assets/images/splash-blogs.png
     alt: "publications"
     title: "Publications"
     url: "https://jeunghyunlee.github.io/publications-archive/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="intro" type="center" %}
