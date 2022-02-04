@@ -11,7 +11,7 @@ header:
     url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
     excerpt: ' '
 excerpt: >
-    <center>I am a graduate student in <a href="https://ccs-lab.github.io/">Computatinal Clinical Science Lab</a> in <a href="https://en.snu.ac.kr/index.html">Seoul National University</a>. I study computational psychiatry and decision neuroscience. My research investigates how people make maladaptive decisions under stress. To this end, I aim to bridge clinical science with neuroscience and data science. <br /></center>     
+    <center><br>I am a graduate student in <a href="https://ccs-lab.github.io/" style="color: black">Computatinal Clinical Science Lab</a> in <a href="https://en.snu.ac.kr/index.html" style="color: black">Seoul National University</a>. I study computational psychiatry and decision neuroscience. My research investigates how people make maladaptive decisions under stress. To this end, I aim to bridge clinical science with neuroscience and data science. <br /></center>     
 intro: " "
   
 feature_row:
