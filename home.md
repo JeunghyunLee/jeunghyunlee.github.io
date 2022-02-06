@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_image.png
-  text_color: "black"
+  text_color: "#151B54"
   actions:
   - label: "<i class='fas fa-headphones'></i> How to read my name "
     url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
