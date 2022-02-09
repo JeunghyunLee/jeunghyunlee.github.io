@@ -19,7 +19,7 @@
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
+      <h1 id="page-title" class="page__title" itemprop="headline" align = "center">
         {% if paginator and site.paginate_show_page_num %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
@@ -33,12 +33,14 @@
       {% endif %}
       {% include page__meta.html %}
       {% if page.header.cta_url %}
-        <p><a href="{{ page.header.cta_url | relative_url }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+      <center><p>
+            <a href="{{ page.header.cta_url | relative_url }}" class="btn btn--primary btn--large" >{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+            </p></center>
       {% endif %}
       {% if page.header.actions %}
         <p>
         {% for action in page.header.actions %}
-          <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          <center><a href="{{ action.url | relative_url }}" class="btn btn--primary btn--large" >{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></center>
         {% endfor %}
       {% endif %}
     </div>

@@ -6,14 +6,15 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_image.png
-  text_color: black
+  text_color: "#151B54"
+  btn_color: "#fff"
   actions:
   - label: "<i class='fas fa-headphones'></i> How to read my name "
     url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
-    excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*. '
-
-intro:
-  - excerpt: 'I study *clinical psychology* using *neuroimaging techniques* and *computational modeling*. '
+    excerpt: ' '
+excerpt: >
+    <center><br>I am a graduate student in <a href="https://ccs-lab.github.io/" style="color: black">Computatinal Clinical Science Lab</a> in <a href="https://en.snu.ac.kr/index.html" style="color: black">Seoul National University</a>. I study computational psychiatry and decision neuroscience. My research investigates how people make maladaptive decisions under stress. To this end, I aim to bridge clinical science with neuroscience and data science. <br /></center>     
+intro: " "
   
 feature_row:
   - image_path: assets/images/splash-idea.png
@@ -21,19 +22,19 @@ feature_row:
     title: "Projects"
     url: "https://jeunghyunlee.github.io/research-interests/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
   - image_path: assets/images/splash-cv.png
     alt: "cv"
     title: "CV"
     url: "https://jeunghyunlee.github.io/cv/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
   - image_path: assets/images/splash-blogs.png
     alt: "publications"
     title: "Publications"
     url: "https://jeunghyunlee.github.io/publications-archive/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="intro" type="center" %}
