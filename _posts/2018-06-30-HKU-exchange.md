@@ -14,4 +14,4 @@ I have finished my life as an exchange student at **University of Hong Kong**. I
 * Introduction to counselling and therapeutic psychology  
 * Perception  
 
-I've been having such a great time with lovely friends all over the world, now leaving with unforgettable memories. Love you all! <3<3
+I've been having such a great time with lovely friends all over the world, now leaving with unforgettable memories. Love you all! 
