@@ -20,7 +20,7 @@ feature_row:
   - image_path: assets/images/splash-idea.png
     alt: "projects"
     title: "Projects"
-    url: "https://jeunghyunlee.github.io/research-interests/"
+    url: "https://jeunghyunlee.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: assets/images/splash-cv.png
