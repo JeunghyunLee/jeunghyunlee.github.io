@@ -16,6 +16,6 @@ Plastic, which is easily and inexpensively accessed by everyone in our daily lif
 
 My specific aims were: 
 
-1) To raise awareness about eco-friendly thinking and use of plastic products among school members
-2) By continuously observing the process of assembling the plastic bottle caps of different colors, you can enjoy a sense of responsibility, cooperation, and aesthetic effects at the same time.
-3) Inducing a virtuous cycle of reducing the use of disposable cups and plastic bags in campus cafes and convenience stores due to the increase in the use of eco-bags and reusable cups.
+1) To raise awareness about eco-friendly thinking and use of plastic products among school members  
+2) By continuously observing the process of assembling the plastic bottle caps of different colors, you can enjoy a sense of responsibility, cooperation, and aesthetic effects at the same time.  
+3) Inducing a virtuous cycle of reducing the use of disposable cups and plastic bags in campus cafes and convenience stores due to the increase in the use of eco-bags and reusable cups.  
