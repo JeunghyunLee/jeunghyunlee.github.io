@@ -1,5 +1,5 @@
 ---
-title: "Exchange Student at University of Hong Kong"
+title: "Exchange student at the University of Hong Kong"
 related: false
 categories:
   - education
