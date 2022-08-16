@@ -1,6 +1,6 @@
 ---
-permalink: /research-interests/
-title: "Research Interests"
+permalink: /research/
+title: "Research"
 excerpt: "Research interests of mine and related works"
 last_modified_at: 2021-01-01T14:51:23-04:00
 author_profile: true
