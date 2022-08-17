@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 excerpt: "Research interests of mine and related works"
-last_modified_at: 2022-08
+last_modified_at: 2022-08-17
 author_profile: true
 classes: wide
 
