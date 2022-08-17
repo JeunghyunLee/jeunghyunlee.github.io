@@ -152,8 +152,8 @@ $max-width: $x-large !default;
    ========================================================================== */
 
 /* original: 200px, 300px, 400px */
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
+$right-sidebar-width-narrow: 200px !default; // left
+$right-sidebar-width: 200px !default;
 $right-sidebar-width-wide: 250px !default;
 
 /*
