@@ -7,6 +7,7 @@ categories:
 tags:
   - award
 last_modified_at: 2022-07-25
+classes: wide
 ---
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/post_2022_SNUwechange.png ){: .align-center}
 

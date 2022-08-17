@@ -7,6 +7,7 @@ tags:
   - event
   - education
 last_modified_at: 2020-02-25
+classes: wide
 ---
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/post_2020_graduation_1.png){: width="40%" height="40%"}{: .align-right} I received a Bachelor’s degree in Psychology and Public Governance & Leadership from Korea University (Feb 2020). Now that graduating, it has been a great honor and pleasure to experience a lot with the greatest people on this campus! 
 

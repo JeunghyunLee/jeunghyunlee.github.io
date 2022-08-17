@@ -7,6 +7,7 @@ tags:
   - event
   - education
 last_modified_at: 2022-02-25
+classes: wide
 ---
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/post_2022_graduation_2.png){: width="40%" height="40%"}{: .align-right} I received a Master's degree in Computational & Clincial psychology from the Seoul National University (Feb 2022).   
 
