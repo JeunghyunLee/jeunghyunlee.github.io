@@ -304,3 +304,11 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
+
+# Analytics
+    analytics:
+    provider               : "google-gtag"
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+    google:
+        tracking_id          : "G-ZB65XDX2W6"
+        anonymize_ip         : # true, false (default)
