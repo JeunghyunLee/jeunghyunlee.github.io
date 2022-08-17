@@ -26,6 +26,13 @@ We recruited over 1,000 participants from 16 branches nationwide with [365mc cli
 
 <br/>
 
+## Contribution of Early-Life Stress and Genetic factors to the young brains: a machine-learning approach with ABCD dataset
+There has been increasing evidence highlighting the gene x environment interaction in understanding the individual difference that mediates associations between early life stress (ELS) and later development of psychopathology. In this project, we used elastic net to distinguish significant predictors of psychopathology development in different ELS groups. Different data from the [ABCD dataset](https://nda.nih.gov/abcd/) including fMRI task results, clinical diagnosis, and interview answers were included as predictors.    
+- Team members: [Hyeonjin Kim](https://ccs-lab.github.io/team/hyeonjin-kim/)
+- Related paper: [Joo et al (2022)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789157)
+
+<br/>
+
 ## Acute stress alters social discounting rate: a model-based fMRI study
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/project_1_socialdistance.png){: width="50%" height="50%"}{: .align-center}
 - Project led with [Kunil Kim](http://socialdecisionneurosciencelab.org/people) (LSD lab)  
