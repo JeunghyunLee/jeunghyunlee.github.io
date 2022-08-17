@@ -11,10 +11,12 @@ I am mainly interested in **clinical psychology** and **decision neuroscience**.
 
 ## Projects
 ### *Acute stress alters Social discounting rate among males*
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/project_1_socialdistance.png){: .align-left} **Acute stress alters Social discounting rate among males** is a project led with [Kunil Kim](http://socialdecisionneurosciencelab.org/people) (LSD lab). In this project, we aimed to check:
-* **if cortisol is indeed a prosocial hormone** 
-* **whether the prosocial behaviors would be amplified among the stressed males, even toward the distant others**.
-* In this project, we tested various computational models and confirmed a winning model. 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/project_1_socialdistance.png){: .align-left} 
+
+**Acute stress alters Social discounting rate among males** is a project led with [Kunil Kim](http://socialdecisionneurosciencelab.org/people) (LSD lab). In this project, we aimed to check:  
+* **if cortisol is indeed a prosocial hormone**   
+* **whether the prosocial behaviors would be amplified among the stressed males, even toward the distant others**.  
+* In this project, we tested various computational models and confirmed a winning model.    
 * [click to view details](/asset/files/project_1_socialdistance.pdf)
 
 ## Presentations
