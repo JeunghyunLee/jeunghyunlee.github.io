@@ -37,7 +37,7 @@ We recruited over 1,000 participants from 16 branches nationwide with [365mc cli
 <br/>
 
 ## From image to emotion: Multi-label image classification based on the emotions represented in images  
-Expressing oneself with images is prevalent online these days, perhaps even more than texts Millions of new images are posted on social network services everyday. Enterprises are eager to collect information from such posts and try to follow the preference trend. As a part of 2021 Machine Learning for Visual Understanding course (SNU, Instructor: Joonseok Lee), our team developed a multi-label image classification utilizing triplet loss embeddings on the Pittsburgh advertisement image database.   
+Expressing oneself with images is prevalent online these days, perhaps even more than texts Millions of new images are posted on social network services everyday. Enterprises are eager to collect information from such posts and try to follow the preference trend. As a part of 2021 Machine Learning for Visual Understanding course (SNU, Instructor: [Joonseok Lee](http://www.joonseok.net/home.html)), our team developed a multi-label image classification utilizing triplet loss embeddings on the Pittsburgh advertisement image database.   
 
 - [Project paper](https://drive.google.com/file/d/1liXNsB2c121iZ7952mv3eSl2C16Lw6cL/view?usp=sharing) for 2021 MLVU course (SNU)
 - Team members: [Youngeun Choi](yechoi7@snu.ac.kr), [Junghyun Ryu](jhryu30@snu.ac.kr) 
