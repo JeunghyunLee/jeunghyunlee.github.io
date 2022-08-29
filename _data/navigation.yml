@@ -8,8 +8,8 @@ main:
     url: /research/
   - title: "Blogs"
     url: /blogs-archive/
-  - title: "Publications"
-    url: /publications-archive/
+  # - title: "Publications"
+  # url: /publications-archive/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
 
 

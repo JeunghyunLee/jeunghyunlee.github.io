@@ -18,9 +18,9 @@ intro: " "
   
 feature_row:
   - image_path: assets/images/splash-idea.png
-    alt: "projects"
-    title: "Projects"
-    url: "https://jeunghyunlee.github.io/research/"
+    alt: "News"
+    title: "News"
+    url: "https://jeunghyunlee.github.io/blogs/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: assets/images/splash-cv.png
@@ -30,9 +30,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: assets/images/splash-blogs.png
-    alt: "publications"
-    title: "Publications"
-    url: "https://jeunghyunlee.github.io/publications-archive/"
+    alt: "Research"
+    title: "Research"
+    url: "https://jeunghyunlee.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
