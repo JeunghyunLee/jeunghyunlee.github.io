@@ -20,7 +20,7 @@ feature_row:
   - image_path: assets/images/splash-idea.png
     alt: "News"
     title: "News"
-    url: "https://jeunghyunlee.github.io/blogs/"
+    url: "https://jeunghyunlee.github.io/blogs-archive/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: assets/images/splash-cv.png
