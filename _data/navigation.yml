@@ -6,10 +6,10 @@ main:
     url: /cv/
   - title: "Research"
     url: /research/
-  - title: "Blogs"
+  - title: "News"
     url: /blogs-archive/
-  - title: "Publications"
-    url: /publications-archive/
+  # - title: "Publications"
+  # url: /publications-archive/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
 
 
