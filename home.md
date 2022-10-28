@@ -10,7 +10,7 @@ header:
   btn_color: "#fff"
   actions:
   - label: "<i class='fas fa-headphones'></i> How to read my name "
-    url: "http://ipa-reader.xyz/?text=%CA%A4%C9%9B%C5%8B%20hj%CA%8Cn&voice=Nicole"
+    url: "http://ipa-reader.xyz/?text=d%CD%A1%CA%92%CA%B0%CA%8C%CC%9D%C5%8B%20hj%CA%8C%CC%9D%CC%86n&voice=Ivy"
     excerpt: ' '
 excerpt: >
     <center><br>I am a graduate student in <a href="https://ccs-lab.github.io/" style="color: black">Computatinal Clinical Science Lab</a> in <a href="https://en.snu.ac.kr/index.html" style="color: black">Seoul National University</a>. I study computational psychiatry and decision neuroscience. My research investigates how people make maladaptive decisions under stress. To this end, I aim to bridge clinical science with neuroscience and data science. <br /></center>     
