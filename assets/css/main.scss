@@ -1,11 +1,11 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+$link-color: darkblue;
+$title-color: black;
 
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.greedy-title a { color: black; }
-$link-color: darkblue;
