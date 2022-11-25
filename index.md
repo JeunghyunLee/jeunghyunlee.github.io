@@ -1,9 +1,8 @@
 ---
 layout: home
-excerpt: "Thoughts on software by Martin Gross."
+excerpt: "Welcome to Jeung-Hyun's website."
 tags: [JH Lee]
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: texture-leaves-min.jpg
+
 ---
