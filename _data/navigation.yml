@@ -1,16 +1,10 @@
-# main links
-main:
-  # - title: "About"
-  #   url: /about/
-  - title: "CV"
-    url: /cv/
-  - title: "Research"
-    url: /research/
-  - title: "News"
-    url: /blogs-archive/
-  # - title: "Publications"
-  # url: /publications-archive/
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+# Site navigation links
 
+- title: About me
+  url: /about/
 
-        
+- title: Posts
+  url: /posts/
+
+- title: Theme Setup
+  url: /theme-setup/
