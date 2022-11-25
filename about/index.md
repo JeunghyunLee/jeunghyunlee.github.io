@@ -5,7 +5,7 @@ tags: [about, JH Lee]
 modified: 2022-11-25
 comments: false
 image:
-  feature: texture-feature-02.jpg
+  feature: texture-feature-04.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
