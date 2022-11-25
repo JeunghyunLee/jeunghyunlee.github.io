@@ -1,17 +1,16 @@
 
 ---
 layout: page
-permalink: /cv/
-title: "Curriculum Vitae"
-layouts_gallery:
-last_update_at: 2022-08-16
-author_profile: true
+title: Curriculum Vitae
+tags: [cv, JH Lee]
+modified: 2022-11-25
+comments: false
 image:
-  feature: texture-feature-02.jpg
+  feature: texture-feature-03.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
-
 ---
+
 <iframe src="https://drive.google.com/file/d/1LjMRCXGFSLGRUpoQGho_8ZK3oACvKRoA/preview" width="100%" height="1000" allow="autoplay"></iframe>
 
 <!--
