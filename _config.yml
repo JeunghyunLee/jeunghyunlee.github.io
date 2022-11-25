@@ -56,10 +56,3 @@ owner:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
-# Analytics
-    analytics:
-    provider               : "google-gtag"
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-    google:
-        tracking_id          : "G-ZB65XDX2W6"
-        anonymize_ip         : # true, false (default)
