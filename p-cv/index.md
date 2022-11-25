@@ -2,7 +2,6 @@
 ---
 layout: page
 title: Curriculum Vitae
-tags: [about, JH Lee]
 modified: 2022-11-25
 comments: false
 image:
