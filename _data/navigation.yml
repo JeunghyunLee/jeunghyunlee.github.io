@@ -1,15 +1,15 @@
 # Site navigation links
 
 - title: About me
-  url: /about/
+  url: /p-about/
 
 - title: CV
-  url: /cv/
+  url: /p-cv/
 
 - title: Research
-  url: /research/
+  url: /p-research/
   
 - title: Posts
-  url: /posts/
+  url: /p-posts/
 
 
