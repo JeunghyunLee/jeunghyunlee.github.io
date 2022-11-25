@@ -1,5 +1,6 @@
 
 ---
+layout: page
 title: Curriculum Vitae
 date: '2022-11-25'
 comments: false
