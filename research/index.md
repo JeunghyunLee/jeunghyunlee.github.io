@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Projects
 tags: [about, JH Lee]
 modified: 2022-11-25
 comments: false
