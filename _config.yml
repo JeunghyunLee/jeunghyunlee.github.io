@@ -30,7 +30,8 @@ owner:
   name: Jeung-Hyun Lee
   avatar: avatar.jpg
   bio: "Graduate student majoring in **Clinical Psychology**, [CCS-lab](https://ccs-lab.github.io/), Seoul National University"
-  email: 
+  location: "Seoul, Korea"
+  email: jeunghyunleee@mail.com
   disqus-shortname: Jeung-Hyun Lee
   twitter: JeunghyunLee
   facebook: #username
@@ -54,3 +55,11 @@ owner:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# Analytics
+    analytics:
+    provider               : "google-gtag"
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+    google:
+        tracking_id          : "G-ZB65XDX2W6"
+        anonymize_ip         : # true, false (default)

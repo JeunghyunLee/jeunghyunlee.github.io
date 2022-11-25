@@ -1,9 +1,9 @@
 
 ---
-layout: page
 title: Curriculum Vitae
+layouts_gallery:
 tags: [cv, JH Lee]
-modified: 2022-11-25
+date: '2022-11-25'
 comments: false
 image:
   feature: texture-feature-03.jpg
