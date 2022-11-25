@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About me
-tags: [about, Martin Gross]
-modified: 2014-10-12
+tags: [about, JH Lee]
+modified: 2022-11-25
 comments: false
 image:
   feature: texture-feature-02.jpg
@@ -10,7 +10,7 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-I am long-time software architect and engineer, blogging from time to time since 2004. Besides the technical aspects, I take a great interest in the business side of software. 
+<center><br>I am a graduate student in <a href="https://ccs-lab.github.io/" style="color: black">Computatinal Clinical Science Lab</a> in <a href="https://en.snu.ac.kr/index.html" style="color: black">Seoul National University</a>. I study computational psychiatry and decision neuroscience. My research investigates how people make maladaptive decisions under stress. To this end, I aim to bridge clinical science with neuroscience and data science. <br /></center>    
 
 I am working in the following areas
 

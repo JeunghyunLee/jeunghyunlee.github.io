@@ -34,12 +34,12 @@ owner:
   disqus-shortname: Jeung-Hyun Lee
   twitter: JeunghyunLee
   facebook: #username
-  google:
-    plus: MartinGrossMG
-    analytics: UA-131702-1
-    verify: 7TRemu2QpSnAN1yRsZdRVF7hjAdPU6lMxGzRvfoESRI
-    ad-client: 
-    ad-slot: 
+  # google:
+  #  plus: MartinGrossMG
+  #  analytics: UA-131702-1
+  #  verify: 7TRemu2QpSnAN1yRsZdRVF7hjAdPU6lMxGzRvfoESRI
+  #  ad-client:
+  #  ad-slot: 
   bing-verify: 
   github: JeunghyunLee
   # stackoverflow: #http://stackoverflow.com/users/123456/username
