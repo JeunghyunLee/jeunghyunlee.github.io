@@ -1,6 +1,5 @@
 --- 
 layout: single
-title: ""
 permalink: /
 hidden: true
 header:
