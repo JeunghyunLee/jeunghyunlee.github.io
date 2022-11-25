@@ -1,9 +1,9 @@
 ---
 layout: home
 excerpt: "Thoughts on software by Martin Gross."
-tags: [software, development, blog]
+tags: [JH Lee]
 image:
-  feature: home_image_sky.png
+  feature: texture-feature-01.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
