@@ -27,12 +27,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Martin Gross
-  avatar: MG_Profilbild.jpg
-  bio: "Solution seeker, building things, often in software."
+  name: Jeung-Hyun Lee
+  avatar: avatar.jpg
+  bio: "Graduate student majoring in **Clinical Psychology**, [CCS-lab](https://ccs-lab.github.io/), Seoul National University"
   email: 
-  disqus-shortname: datazoo
-  twitter: MartinGross
+  disqus-shortname: Jeung-Hyun Lee
+  twitter: JeunghyunLee
   facebook: #username
   google:
     plus: MartinGrossMG
@@ -41,9 +41,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: MartinGross
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: martingrossfluxum
+  github: JeunghyunLee
+  # stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: Jeung-hyun-lee-812216164
   instagram: #username
   lastfm: #username
   tumblr: #username
