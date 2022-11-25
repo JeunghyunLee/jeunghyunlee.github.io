@@ -1,11 +1,12 @@
 --- 
 layout: single
+title: Hello! 
 permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_image.png
-  title_color: "#151B54"
+  headline_color: "#151B54"
   text_color: "#151B54"
   btn_color: "#fff"
   actions:
