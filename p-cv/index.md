@@ -1,6 +1,6 @@
 
 ---
-layout: post-index
+layout: page
 title: Curriculum Vitae
 ---
 * Last update: *25th Nov, 2022*
