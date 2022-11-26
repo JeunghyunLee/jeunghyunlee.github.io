@@ -1,6 +1,6 @@
 
 ---
-layout: page
+layout: default
 title: Curriculum Vitae
 date: 2022-11-25
 tags: [cv]
