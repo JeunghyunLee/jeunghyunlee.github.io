@@ -7,6 +7,9 @@ comments: false
 image:
   
 ---
+
+<a href="http://ipa-reader.xyz/?text=d%CD%A1%CA%92%CA%B0%CA%8C%CC%9D%C5%8B%20hj%CA%8C%CC%9D%CC%86n&voice=Ivy" class="btn btn--primary">How to read my name</a>
+
 - label: "<i class='fas fa-headphones'></i> How to read my name "
   url: "http://ipa-reader.xyz/?text=d%CD%A1%CA%92%CA%B0%CA%8C%CC%9D%C5%8B%20hj%CA%8C%CC%9D%CC%86n&voice=Ivy"
   excerpt: ' '
