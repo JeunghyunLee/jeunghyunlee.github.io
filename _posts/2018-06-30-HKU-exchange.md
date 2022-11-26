@@ -8,7 +8,11 @@ tags:
 last_modified_at: 2018-06-30
 classes: wide
 ---
-![image-center]({{ site.url }}{{ site.baseurl }}/images/posts/post_hku_exchange_1.png){: .align-center}\
+
+<p align="center">
+    <img width="100%" src="/images/posts/post_hku_exchange_1.png">
+</p>
+
 I have finished my life as an exchange student at **University of Hong Kong**. I took courses from the Department of Psychology:
 * Biological Psychology  
 * Fundamentals of social psychology   

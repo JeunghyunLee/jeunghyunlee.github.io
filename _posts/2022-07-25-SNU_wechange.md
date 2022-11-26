@@ -9,7 +9,12 @@ tags:
 last_modified_at: 2022-07-25
 classes: wide
 ---
-![image-center]({{ site.url }}{{ site.baseurl }}/images/posts/post_2022_SNUwechange.png ){: width="60%" height="60%"}{: .align-center}
+
+<p align="center">
+    <img width="70%" width="70%"
+    src="/images/posts/post_2022_SNUwechange.png">
+</p>
+
 
 I placed the 2nd in the SNU on-campus contest! This contest, hosted by the Office of Students, was an idea contest for a green campus and win-win relationship between the school and students. I proposed **Rainbow challenge**, which was about collecting and upcycling small, difficult-to-recycle plastics from all over the campus. 
 
