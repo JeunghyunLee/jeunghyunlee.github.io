@@ -2,9 +2,8 @@
 ---
 layout: page
 title: Curriculum Vitae
-modified: 2022-11-25
-comments: false
-image:
+date: 2022-11-25
+tags: [cv]
 
 ---
 
