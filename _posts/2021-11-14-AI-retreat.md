@@ -12,5 +12,5 @@ classes: wide
 I gave a poster presentation at 2021 AI retreat held by SNU [Artificial Intelligence Institute](https://aiis.snu.ac.kr/eng/). The event was held in-person and it was fun to mingle with researchers from various fields of industry (i.e., Naver CLOVA, Megazone, Kakao enterprise, LG CNS). Looking forward for active collaborations in the future!   
 
 <p align="center">
-    <img width="40%" src="/images/posts/post_2021_AIretreat.png">
+    <img width="55%" src="/images/posts/post_2021_AIretreat.png">
 </p>

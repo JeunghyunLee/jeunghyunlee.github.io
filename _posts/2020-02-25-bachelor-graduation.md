@@ -19,7 +19,7 @@ I received a Bachelor’s degree in Psychology and Public Governance & Leadershi
 Also, I'm happy to announce that I'm joining the [**Computational Clinical Science Laboratory**](https://ccs-lab.github.io/) as a graduate student with Heesun and Hoyoung. Thank you all for the warmest greetings!  
 
 <p align="center">
-    <img width="40%" src="/images/posts/post_2020_graduation_2.png">
+    <img width="80%" src="/images/posts/post_2020_graduation_2.png">
 </p>
 
 

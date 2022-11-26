@@ -10,9 +10,8 @@ last_modified_at: 2022-09-28
 classes: wide
 ---
 
-<p align="center">
-    <img width="50%" src="/images/posts/post_2022_openlab_1.png">
-    <img width="50%" src="/images/posts/post_2022_openlab_2.png">
+<p align="center" width="100%">
+    <img width="70%" src="/images/posts/post_2022_openlab_2.png">
 </p>
 
 
