@@ -1,6 +1,6 @@
 
 ---
-layout: page
+layout: single
 title: Curriculum Vitae
 ---
 * Last update: *25th Nov, 2022*
