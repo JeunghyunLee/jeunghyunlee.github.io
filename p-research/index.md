@@ -11,7 +11,7 @@ comments: false
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/images/research/project_stressbehav_1.png){: width="100%" height="100%"}{: .align-center}  
 * Manuscript in preparation 
-- **Poster** presented at the Society of Biological Psychiatry (2022, April) [link to the abstract](https://www.sciencedirect.com/science/article/pii/S0006322322003328?via%3Dihub)
+* [**Poster**](https://www.sciencedirect.com/science/article/pii/S0006322322003328?via%3Dihub) presented at the 2022 Annual meeting of Society of Biological Psychiatry (New Orleans, LA)
 * Like most addictive substances, nicotine dependence and smoking addiction is also known for its high relapse rate. Here, stress is a huge risk factor of relapse and increased craving to smoke. Referring to the phrase of "chasing the first high", this project aimed to test the role of acute stress bringing up the drug-related memory, especially the rewarding ones and that would contribute to increased craving. By investigating the process of which context memories are retrieved and preferred in episodes associated with cigarettes, we hope the findings to provide a deeper understanding of stress-induced relapse. 
 
 <br/>
@@ -33,10 +33,10 @@ comments: false
 <br/>
 
 ### Acute stress alters social discounting rate: a model-based fMRI study
-![image-center]({{ site.url }}{{ site.baseurl }}/images/research/project_1_socialdistance.png){: width="100%" height="100%"}{: .align-center}
-* Manuscript in preparation 
+![image-center]({{ site.url }}{{ site.baseurl }}/images/research/project_socialdistance.png){: width="100%" height="100%"}{: .align-center}
+* Manuscript in preparation  
 * Team: [Kunil Kim](http://socialdecisionneurosciencelab.org/people) (LSD lab, 1st author)  
-* This project investigated 1) if cortisol is indeed a prosocial hormone that promotes sharing with close and distant others among males and 2) disentagle different  roles of parts in medial prefrontal cortex (mPFC) to compuate values of onself and close others with fMRI and behavioral modeling.  
+* This project investigated 1) if cortisol is indeed a prosocial hormone that promotes sharing with close and distant others among males and 2) disentagle different  roles of parts in medial prefrontal cortex (mPFC) to compuate values of onself and close others with fMRI and behavioral modeling.   
 * **Poster** presented at the 2022 Society for Neuroscience (San Diego, CA). 
 
 <br/>
