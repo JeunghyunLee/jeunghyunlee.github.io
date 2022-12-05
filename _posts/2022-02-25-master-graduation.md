@@ -18,7 +18,6 @@ I received a Master's degree in Computational & Clincial psychology from the Seo
 
 I am planning to pursue my PhD in the [**Computational Clinical Science Laboratory**](https://ccs-lab.github.io/) with Dr. Ahn as an advisor. Looking forward for a few more exciting years with these amazing people!  
 
-
 <p align="center">
     <img width="60%" src="/images/posts/post_2022_graduation_1.png">
 </p>
