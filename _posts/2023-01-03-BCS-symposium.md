@@ -1,5 +1,5 @@
 ---
-title: "Presenting in the 10-10 iSRC symposium"
+title: "Presenting at the 10-10 iSRC symposium"
 excerpt_separator: "<!--more-->"
 related: false
 categories:
@@ -14,4 +14,4 @@ classes: wide
     <img width="80%" src="/images/posts/post_2023_BCS_symposium.png">
 </p>
 
-I gave a presentation at the first 10-10 iSRC symposium of 2023. The goal of 10-10 iSRC grant is to encourage and support collaboration among different research groups. I shared the research progress with a title of *Investigating the neural correlates of substance-related memory bias under stress*.  
+I gave a presentation at the first 10-10 iSRC symposium of 2023. The goal of 10-10 iSRC grant is to encourage and support collaboration among different research groups. I shared the research progress with a title of *Investigating the neural correlates of substance-related memory bias under stress* with the other research teams.  
