@@ -34,13 +34,13 @@
 
 <div id="index">
   <h3><a href="{{ site.baseurl}}/pubs/">Publications</a></h3>
-  {% for pubs in site.pubs limit:5 %}
+  {% for post in site.pubs limit:5 %}    
   <article>
-    {% if pubs.link %}
-      <h2 class="link-pubs"><a href="{{ site.baseurl }}{{ pubs.url }}" title="{{ pubs.title }}">{{ pubs.title }}</a> <a href="{{ pubs.link }}" target="_blank" title="{{ pubs.title }}"><i class="fa fa-link"></i></h2>
+    {% if post.link %}
+      <h2 class="link-post"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
     {% else %}
-      <h2><a href="{{ site.baseurl }}{{ pubs.url }}" title="{{ pubs.title }}">{{ pubs.title }}</a></h2>
-      <p>{{ pubs.excerpt | strip_html | truncate: 160 }}</p>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
     {% endif %}
   </article>
   {% endfor %}
