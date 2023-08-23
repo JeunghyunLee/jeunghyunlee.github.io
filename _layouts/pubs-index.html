@@ -7,7 +7,7 @@
 {% include _head.html %}
 </head>
 
-<body class="home">
+<body class="pubs-index">
 
 {% include _browser-upgrade.html %}
 
@@ -33,16 +33,25 @@
 </div>
 
 <div id="index">
-  <h3><a href="{{ site.baseurl}}/pubs/">Publications</a></h3>
-  {% for pubs in site.pubs limit:5 %}
-  <article>
-    {% if pubs.link %}
-      <h2 class="link-pubs"><a href="{{ site.baseurl }}{{ pubs.url }}" title="{{ pubs.title }}">{{ pubs.title }}</a> <a href="{{ pubs.link }}" target="_blank" title="{{ pubs.title }}"><i class="fa fa-link"></i></h2>
+  <h1>{{ page.title }}</h1>
+  {% for pubs in site.pubs %}
+  {% unless pubs.next %}
+    <h3>{{ pubs.date | date: '%Y' }}</h3>
     {% else %}
-      <h2><a href="{{ site.baseurl }}{{ pubs.url }}" title="{{ pubs.title }}">{{ pubs.title }}</a></h2>
-      <p>{{ pubs.excerpt | strip_html | truncate: 160 }}</p>
-    {% endif %}
-  </article>
+      {% capture year %}{{ pubs.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ pubs.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        <h3>{{ pubs.date | date: '%Y' }}</h3>
+      {% endif %}
+    {% endunless %}
+    <article>
+      {% if pubs.link %}
+        <h2 class="link-pubs"><a href="{{ site.baseurl }}{{ pubs.url }}" title="{{ pubs.title }}">{{ pubs.title }}</a> <a href="{{ pubs.link }}" target="_blank" title="{{ pubs.title }}"><i class="fa fa-link"></i></h2>
+      {% else %}
+        <h2><a href="{{ site.baseurl }}{{ pubs.url }}" title="{{ pubs.title }}">{{ pubs.title }}</a></h2>
+        <p>{{ pubs.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+    </article>
   {% endfor %}
 </div><!-- /#index -->
 

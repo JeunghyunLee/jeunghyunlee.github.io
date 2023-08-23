@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pubs-index
 title: Publications
 tags: [about, JH Lee]
 modified: 2023-08-22
