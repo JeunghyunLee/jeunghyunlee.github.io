@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: pub-index
 title: {{ title }}
 permalink:
 modified:
