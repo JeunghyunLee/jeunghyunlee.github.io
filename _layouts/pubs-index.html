@@ -34,22 +34,22 @@
 
 <div id="index">
   <h1>{{ page.title }}</h1>
-  {% for pub in site.pubs %}
-  {% unless pub.next %}
-    <h3>{{ pub.date | date: '%Y' }}</h3>
+  {% for post in site.pubs %}
+  {% unless post.next %}
+    <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
-      {% capture year %}{{ pub.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ pub.next.date | date: '%Y' }}{% endcapture %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
       {% if year != nyear %}
-        <h3>{{ pub.date | date: '%Y' }}</h3>
+        <h3>{{ post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
     <article>
-      {% if pub.link %}
-        <h2 class="link-pub"><a href="{{ site.baseurl }}{{ pub.url }}" title="{{ pub.title }}">{{ pub.title }}</a> <a href="{{ pub.link }}" target="_blank" title="{{ pub.title }}"><i class="fa fa-link"></i></h2>
+      {% if post.link %}
+        <h2 class="link-post"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
       {% else %}
-        <h2><a href="{{ site.baseurl }}{{ pubs.url }}" title="{{ pub.title }}">{{ pub.title }}</a></h2>
-        <p>{{ pub.excerpt | strip_html | truncate: 160 }}</p>
+        <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
       {% endif %}
     </article>
   {% endfor %}
