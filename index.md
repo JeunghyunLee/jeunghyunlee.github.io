@@ -1,5 +1,5 @@
 ---
-layout: pub
+layout: home
 excerpt: "Welcome to Jeung-Hyun's website."
 tags: [JH Lee]
 image:
