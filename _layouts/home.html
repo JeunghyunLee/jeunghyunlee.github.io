@@ -33,14 +33,14 @@
 </div>
 
 <div id="index">
-  <h3><a href="{{ site.baseurl}}/pubs/">Publications</a></h3>
-  {% for pub in site.pubs limit:5 %}
+  <h3><a href="{{ site.baseurl}}/posts/">Publications</a></h3>
+  {% for post in site.posts limit:5 %}
   <article>
-    {% if pub.link %}
-      <h2 class="link-pub"><a href="{{ site.baseurl }}{{ pub.url }}" title="{{ pub.title }}">{{ pub.title }}</a> <a href="{{ pub.link }}" target="_blank" title="{{ pub.title }}"><i class="fa fa-link"></i></h2>
+    {% if post.link %}
+      <h2 class="link-pub"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ pub.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
     {% else %}
-      <h2><a href="{{ site.baseurl }}{{ pub.url }}" title="{{ pub.title }}">{{ pub.title }}</a></h2>
-      <p>{{ pub.excerpt | strip_html | truncate: 160 }}</p>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
     {% endif %}
   </article>
   {% endfor %}
