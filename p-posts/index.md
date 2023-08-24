@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: Blogs
+title: Publications
 excerpt: "A List of Posts"
 ---
