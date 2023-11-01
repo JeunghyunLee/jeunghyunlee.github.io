@@ -1,3 +1,5 @@
+--- layout: archive --- 
+
 <!doctype html>
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
@@ -37,7 +39,7 @@
 
     <!-- New Section for "Under Review" Titles -->
     <section id="under-review">
-        <h2>Under review/In preparation</h2>
+        <h2>Under review / In preparation</h2>
         {% for post in site.posts %}
           {% capture postPath %}{{ post.path }}{% endcapture %}
           {% unless postPath contains "under_review" %}
@@ -67,9 +69,14 @@
       {% endunless %}
       <article>
         {% if post.link %}
-          <h2 class="link-post"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+          <h2 class="link-post">
+              <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+              <a href="{{ post.link }}" target="_blank" title="{{ post.title }}">
+              <i class="fa fa-link"></i></h2>
         {% else %}
-          <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+          <h2>
+              <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+          </h2>
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
       </article>
