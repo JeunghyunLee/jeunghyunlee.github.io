@@ -39,7 +39,8 @@
     <section id="under-review">
       <h2>Under Review</h2>
       {% for post in site.posts %}
-        {% if post.path contains "under_review" %}
+      {% capture postPath %}{{ post.path }}{% endcapture %}
+            {% if postPath contains "under_review" %}
           <article>
             <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
             <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
