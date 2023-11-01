@@ -41,7 +41,6 @@
       {% for post in site.posts %}
       {% capture postPath %}{{ post.path }}{% endcapture %}
             {% if postPath contains "under_review" %}
-            {% endunless %}
             <article>
               {% if post.link %}
                 <h2 class="link-post"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
