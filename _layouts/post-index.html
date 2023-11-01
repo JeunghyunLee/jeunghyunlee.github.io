@@ -32,19 +32,24 @@
   {% include _author-bio.html %}
 </div>
 
-<div id="index">
-  <h1>{{ page.title }}</h1>
-  {% for post in site.posts %}
-    {% if post.path contains "under_review" %}
-      <!-- Add posts with "under_review" in their file names to the "Under Review" section -->
-      <section id="under-review">
-        <h2>Under Review</h2>
-        <article>
-          <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-        </article>
-      </section>
-    {% else %}
+<<div id="index">
+    <h1>{{ page.title }}</h1>
+
+    <!-- New Section for "Under Review" Titles -->
+    <section id="under-review">
+      <h2>Under Review</h2>
+      {% for post in site.posts %}
+        {% if post.path contains "under_review" %}
+          <article>
+            <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </section>
+
+    <!-- Existing Section for Posts Grouped by Year -->
+    {% for post in site.posts %}
       {% unless post.next %}
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% else %}
@@ -62,9 +67,9 @@
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
       </article>
-    {% endif %}
-  {% endfor %}
-</div><!-- /#index -->
+    {% endfor %}
+  </div><!-- /#index -->
+
 
 <div class="footer-wrap">
   <footer>
