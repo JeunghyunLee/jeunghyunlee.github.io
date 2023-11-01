@@ -40,8 +40,8 @@
     <section id="under-review">
         <h2>Under review / In preparation</h2>
         {% for post in site.posts %}
-            {% capture postName %}{{ post.path | split: '/' | last }}{% endcapture %}
-                  {% if postName contains "under_review" %}
+            {% capture postName %}{{ post.name }}{% endcapture %}
+            {% if postName contains "under_review" %}
                 <article>
                   {% if post.link %}
                     <h2 class="link-post">
