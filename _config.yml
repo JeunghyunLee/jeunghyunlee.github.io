@@ -16,7 +16,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-  - jeyll-scholar
+  - jekyll-scholar
 
 kramdown:
   auto_ids: true
