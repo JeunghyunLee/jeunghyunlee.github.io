@@ -1,13 +1,11 @@
 ---
 title: "Toward building a decision-making paradigm for dynamic and real-world addictive behaviors"
-status: "under_review"
 excerpt_separator: "<!--more-->"
 related: false
 categories:
   - pubs
 tags:
   - pubs
-  - under_review
 last_modified_at: 
 classes: wide
 subtitle: Ahn, W.-Y., **Lee, J.-H.**, & Kim, H. (2023). *Invited review in Current Direactions in Psychological Science* 
