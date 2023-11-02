@@ -48,7 +48,7 @@
         <h2>
           <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
         </h2>
-        <p>{{ post.subtitle | markdownify }}</p>
+        {{ post.subtitle | markdownify }}
         {% endif %}
       </article>
       {% endif %}
@@ -79,7 +79,7 @@
       <h2>
         <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
       </h2>
-      <p>{{ post.subtitle | markdownify }}</p>
+      {{ post.subtitle | markdownify }}
       {% endif %}
     </article>
     {% endunless %}

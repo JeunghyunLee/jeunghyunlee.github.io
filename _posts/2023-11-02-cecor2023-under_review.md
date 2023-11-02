@@ -10,10 +10,10 @@ tags:
   - under_review
 last_modified_at: 
 classes: wide
-subtitle: K, Kim., **Lee, J.-H.**, Ahn, W.-Y., & H. Kim (2023). *under review*   
+subtitle: K, Kim., **Lee, J.-H.**, Ahn, W.-Y., & H. Kim. (2023). *under review*   
 
 ---
-K, Kim., **Lee, J.-H.**, Ahn, W.-Y., & H. Kim (2023). *under review*   
+K, Kim., **Lee, J.-H.**, Ahn, W.-Y., & H. Kim. (2023). *under review*   
 <br/>
      
 
