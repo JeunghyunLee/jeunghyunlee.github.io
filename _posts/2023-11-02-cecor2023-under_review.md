@@ -1,5 +1,5 @@
 ---
-title: "Medial prefrontal cortex subregions differentially mediate social stress-induced increases in generous behavior, *under review*"
+title: "Medial prefrontal cortex subregions differentially mediate social stress-induced increases in generous behavior"
 status: "under_review"
 excerpt_separator: "<!--more-->"
 related: false
