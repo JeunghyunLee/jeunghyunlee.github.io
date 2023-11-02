@@ -10,8 +10,7 @@ tags:
   - under_review
 last_modified_at: 
 classes: wide
-subtitle: 
-Lee, J.-H., Yang, J., Lee, S. H., Kim, H., Pitt, M. A., Myung, J, I., Park, H. J., Joh, H. K., Konova, A., & Ahn, W.-Y. (2023). *In preparation*"
+subtitle: **Lee, J.-H.**, Yang, J., Lee, S. H., Kim, H., Pitt, M. A., Myung, J, I., Park, H. J., Joh, H. K., Konova, A., & Ahn, W.-Y. (2023). *In preparation*
 
 ---
 **Lee, J.-H.**, Yang, J., Lee, S. H., Kim, H., Pitt, M. A., Myung, J, I., Park, H. J., Joh, H. K., Konova, A., & Ahn, W.-Y. (2023). *In preparation*   
