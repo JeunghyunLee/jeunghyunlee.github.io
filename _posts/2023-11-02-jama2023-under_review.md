@@ -1,5 +1,5 @@
 ---
-title: "Toward building a decision-making paradigm for dynamic and real-world addictive behaviors"
+title: "Prediction of daily smoking and treatment outcome using robust and quick computation markers in real-world clinical setting"
 status: "under_review"
 excerpt_separator: "<!--more-->"
 related: false
@@ -23,5 +23,3 @@ classes: wide
 - Decision-making
 - Digital phenotyping  
 - Ecological momentary assessment
-- Stress
-- Memory
