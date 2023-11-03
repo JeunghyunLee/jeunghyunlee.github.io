@@ -1,5 +1,5 @@
 ---
-title: "Medial prefrontal cortex subregions differentially mediate social stress-induced increases in generous behavior"
+title: "Prediction of daily smoking and treatment outcome using robust and quick computation markers in real-world clinical setting"
 status: "under_review"
 excerpt_separator: "<!--more-->"
 related: false
@@ -10,20 +10,22 @@ tags:
   - under_review
 last_modified_at: 
 classes: wide
-subtitle: Kim, K., **Lee, J.-H.**, Ahn, W.-Y., & Kim, H. (2023). *under review*   
+subtitle: **Lee, J.-H.**, Yang, J., Lee, S. H., Kim, H., Pitt, M. A., Myung, J, I., Park, H. J., Joh, H. K., Konova, A., & Ahn, W.-Y. (2023). *In preparation* 
 
 ---
-Kim, K., **Lee, J.-H.**, Ahn, W.-Y., & Kim, H. (2023). *under review*   
+**Lee, J.-H.**, Yang, J., Lee, S. H., Kim, H., Pitt, M. A., Myung, J, I., Park, H. J., Joh, H. K., Konova, A., & Ahn, W.-Y. (2023). *In preparation*  
 <br/>
      
 
 **Abstract**  
 
-In this study, we provide behavioral, computational, and neuroimaging evidence that social stress 25 enhances intuitive prosocial value processing while disrupting self-reward processing. When 26 deciding monetary rewards for people of varying social distances, participants who showed 27 elevated cortisol secretion after a social stress task were more likely to choose a 28 disadvantageous inequal option. Neuroimaging data revealed that participants who were more 29 likely to choose the disadvantageous inequal option exhibited an increase in the extent to which 30 the ventral medial prefrontal cortex (mPFC) encoded other-regarding rewards, whereas the
-31 dorsal mPFC showed a decrease in encoding. Mediation analyses revealed that both the ventral 32 and dorsal mPFC indirectly mediated the link between increased cortisol levels and the increased 33 likelihood of choosing a disadvantageous inequal option. Furthermore, the results of effective 34 connectivity analysis indicated that cortisol exerts an excitatory influence on the dorsal mPFC 35 (dmPFC) via the ventral striatum (VS), while simultaneously sending inhibitory signals to the 36 dorsal mPFC via the dorsal striatum (DS). These findings provide empirical evidence to help 37 clarify the ambiguity regarding the effects of stress on prosocial decisions, indicating that social 38 stress disrupts deliberative decision-making while simultaneously promoting intuitive prosocial 39 motivation through the differential modulation of hierarchically organized cortico-striatal loops.
+The efficacy of treatment for Nicotine Use Disorder (NUD) remains notably limited, and the accurate prediction of successful cessation of smoking presents an ongoing challenge. Previous studies showed that several psychological variables such as craving or depression are primary predictors of smoking, but individual differences that prompt smoking decisions and successful cessation remain unclear.  
+To address this gap, we conducted a longitudinal study using ecological momentary assessment (EMA) via smartphone application and decision-making tasks. Treatment-seeking smokers (N=87) engaged in a smoking cessation clinic that was assisted with medication (i.e., bupropion, varenicline, and nicotine replacement therapy) for 5-6 weeks. Participants provided daily self-reports on psychological variables (i.e., anxiety, craving level for smoking, depression, mood, and stress) and completed two decision-making tasks powered by adaptive design optimization (ADO). With ADO, which is a way to optimize experimental design with information theory and Bayesian data analysis, we could substantially reduce the number of trials required for each task and increase the reliability and precision of individual measures. The two tasks, choice under risk and ambiguity (CRA) and delay discounting (DD) task, produced individual parameters of risk-taking, ambiguity-aversion, and impulsivity (i.e., discounting rate of delayed reward) based on computational models. 
+A time-lagged prediction analysis demonstrated that the computational marker of ambiguity aversion was negatively predictive of daily consumption of cigarettes on the following day (R2=0.60). Craving and depression levels were significantly predictive of a larger amount of smoking on the following day. In line with this, a logistic regression analysis revealed that individuals’ ambiguity aversion assessed during the early phase of the clinic positively predicted prospective success in reduced amount of smoking (β=1.17, OR=3.22, AUC score: 0.750). The main effects of the two analyses survived after accounting for covariates such as medication intake and variance in daily subjective reports such as craving. 
+The current results suggest that the application of computational modeling, specifically through decision-making tasks, offers insights into the identification of predictors of smoking behaviors and treatment for patients with NUD. We expect that these findings could potentially pave the way for the development of individually-tailored interventions and enhance the prognostic capabilities of nicotine-cessation clinics. 
 
 
 <p align="center">
-    <img width="90%" src="/images/research/pub_cercor_Kim_2023.png">
+    <img width="90%" src="/images/research/pub_jama_Lee_2023.png">
 </p>
   
