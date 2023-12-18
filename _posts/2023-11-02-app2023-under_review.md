@@ -13,7 +13,7 @@ classes: wide
 subtitle: <strong>Lee, J.-H.</strong>, Yang, J., Lee, S. H., Kim, H., Pitt, M. A., Myung, J, I., Park, H. J., Joh, H. K., Konova, A., & Ahn, W.-Y. (2023). *In preparation* 
 
 ---
-**Lee, Jeung-Hyun.**, Yang, Jaeyeong., Lee, Sang Ho., Kim, Hyeonjin., Pitt, Mark, Myung, Jay, Park, Hyoungjun. Joh, Hee Kyoung, Konova, Anna, & Ahn, Woo-Young. (2023). *In preparation*  
+**Jeung-Hyun Lee**, Jaeyeong Yang, Sang Ho Lee, Hyeonjin Kim, Mark Pitt, Jay Myung, Hyungjun Park, Hee Kyoung Joh, Anna Konova, & Woo-Young Ahn. (2023). *In preparation*  
 <br/>
      
 

@@ -13,7 +13,7 @@ classes: wide
 subtitle: Kim, K., **Lee, J.-H.**, Ahn, W.-Y., & Kim, H. (2023). *under review*   
 
 ---
-Kim, KunIl., **Lee, Jeung-Hyun.**, Ahn, Woo-Young, & Kim, Hackjin (2023). *under review*   
+KunIl.Kim, **Jeung-Hyun Lee**, Woo-Young Ahn, & Hackjin Kim (2023). *under review*   
 <br/>
      
 
