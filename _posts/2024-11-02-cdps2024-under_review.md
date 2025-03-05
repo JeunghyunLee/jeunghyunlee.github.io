@@ -8,9 +8,9 @@ tags:
   - pubs
 last_modified_at: 
 classes: wide
-subtitle: Ahn, W.-Y., **Lee, J.-H.**, & Kim, H. (2023). *Invited review in Current Direactions in Psychological Science* 
+subtitle: Ahn, W.-Y., **Lee, J.-H.**, & Kim, H. (2023). *under review at Current Directions in Psychological Science* 
 ---
-Woo-Young Ahn, **Jeung-Hyun Lee**, & Hyeonjin Kim. (2023). *Invited review in Current Direactions in Psychological Science*   
+Woo-Young Ahn, **Jeung-Hyun Lee**, & Hyeonjin Kim. (2023). *under review at Current Directions in Psychological Science*   
 <br/>
      
 DOI: [preprint](https://doi.org/10.31234/osf.io/39hdf)  
