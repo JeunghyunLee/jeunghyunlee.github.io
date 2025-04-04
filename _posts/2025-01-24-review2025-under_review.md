@@ -1,5 +1,5 @@
 ---
-title: "From Recognition to Integration: Advancing Reinforcement Learning and Decision-Making in RDoC for Mental Disorders"
+title: "Reinforcement Learning and Decision-Making framework for understanding Mental Disorders"
 status: "under_review"
 excerpt_separator: "<!--more-->"
 related: false
@@ -18,8 +18,7 @@ subtitle: <strong>Lee, J.-H.</strong>\*, Lee, E. H.\*, Im, J. J., O'Doherty, J. 
 
 **Abstract**  
 
-The Research Domain Criteria (RDoC) framework has offered a transdiagnostic and multidimensional approach to understanding psychiatric disorders, organizing research around key neurobehavioral domains such as cognition, valence, and arousal. However, despite its contributions, RDoC faces key limitations, including a lack of integration across domains, a reliance on descriptive rather than mechanistic models, and  poor psychometric properties of many of its measures. The Reinforcement Learning and Decision-Making (RLDM) framework, a computational and theoretical approach that describes how the brain learns from outcomes and makes adaptive decisions, helps address these gaps. RLDM provides a systematic approach to modeling how different domains and constructs interact with each other, offers a mechanistic understanding of decision-making in psychiatric disorders, and leverages computational methods to enhance psychometric reliability, which may increase their clinical utility and inform targeted interventions. While discussions on the benefits of computational approaches for RDoC have been ongoing, this review goes further by specifying how RLDM addresses these limitations, detailing empirical evidence that demonstrates its effectiveness. This review highlights how RLDM addresses the limitations of RDoC, focusing on conditions such as anxiety, depression, and addiction, and emphasizes its potential to guide future RLDM studies. This integration strengthens RDoC’s transdiagnostic goals, fostering a more comprehensive understanding of psychiatric conditions. 
-
+While mental disorders are complex and characterized by heterogeneous symptoms, a unified framework that fully and mechanistically captures these complexities remains elusive. Reinforcement learning offers a promising way to understand mental health by modeling the decision-making processes that underlie psychiatric conditions. By breaking decision-making down into key components—such as state representation, valuation, action selection, and outcome evaluation—reinforcement learning provides a structured approach to studying how disruptions in these processes contribute to disorders like depression, anxiety, and addiction. This review explores how reinforcement learning can help clarify the cognitive and neural mechanisms involved in mental disorders and offers insights into their interactions with other psychological and physiological systems. We also discuss the potential of the framework to improve clinical practice through more personalized treatments and highlight the challenges that remain in applying this approach to mental health research. Future directions will focus on expanding and using the reinforcement learning models to naturalistic paradigms and incorporation with advanced technologies like artificial intelligence. 
 
 
 <p align="center">
