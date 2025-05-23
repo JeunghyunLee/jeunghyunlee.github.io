@@ -9,7 +9,7 @@ tags:
   - pubs
 last_modified_at: 
 classes: wide
-subtitle: Kim, K., **Lee, J.-H.**, Ahn, W.-Y., & Kim, H. (2025). *under review*   
+subtitle: Kim, K., **Lee, J.-H.**, Ahn, W.-Y., & Kim, H. (2025). *Neuroimage*   
 
 ---
 KunIl Kim, **Jeung-Hyun Lee**, Woo-Young Ahn, & Hackjin Kim (2025). *Neuroimage*   
