@@ -1,21 +1,21 @@
 ---
-title: "Medial prefrontal cortex subregions differentially mediate social stress-induced increases in generous behavior"
-status: "under_review"
+title: "Social stress enhances intuitive prosocial behavior in males while disrupting self-reward processing: Evidence from behavioral, computational, and neuroimaging studies"
+status: ""
 excerpt_separator: "<!--more-->"
 related: false
 categories:
   - pubs
 tags:
   - pubs
-  - under_review
 last_modified_at: 
 classes: wide
-subtitle: Kim, K., **Lee, J.-H.**, Ahn, W.-Y., & Kim, H. (2023). *under review*   
+subtitle: Kim, K., **Lee, J.-H.**, Ahn, W.-Y., & Kim, H. (2025). *under review*   
 
 ---
-KunIl Kim, **Jeung-Hyun Lee**, Woo-Young Ahn, & Hackjin Kim (2023). *under review*   
+KunIl Kim, **Jeung-Hyun Lee**, Woo-Young Ahn, & Hackjin Kim (2025). *Neuroimage*   
 <br/>
-     
+
+DOI: [10.1016/j.neuroimage.2025.121273](https://doi.org/10.1016/j.neuroimage.2025.121273)
 
 **Abstract**  
 
