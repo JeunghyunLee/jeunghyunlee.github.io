@@ -9,7 +9,7 @@ tags:
   - pubs
 last_modified_at: 
 classes: wide
-subtitle: Lee, E., Park, H., <strong>Lee, J.-H.</strong>\*, Park, H.J., Joh, H.-K., & Ahn, W.-Y. (2025). *bioRxiv* 
+subtitle: Lee, E., Park, H., <strong>Lee, J.-H.</strong>, Park, H.J., Joh, H.-K., & Ahn, W.-Y. (2025). *bioRxiv* 
 
 ---
 Eunhwi Lee, Heesun Park, Jeung-Hyun Lee, Hyeonjin Kim, Hyung Jun Park, Hee-Kyung Joh, & Woo-Young Ahn. (2025). *bioRxiv* 
