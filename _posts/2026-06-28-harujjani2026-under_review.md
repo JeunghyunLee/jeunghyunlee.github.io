@@ -9,7 +9,7 @@ tags:
   - pubs
 last_modified_at: 
 classes: wide
-subtitle: Lee, H., Kwon, M., <strong>Lee, J.-H.</strong>, Kwon, M., Song, S., Lee, D., Choi, J.-S., Jung, Y.-C., & Ahn, W.-Y. (2025). *PsyArXiv* 
+subtitle: Lee, H., Kwon, M., <strong>Lee, J.-H.</strong>, Kwon, M., Song, S., Lee, D., Choi, J.-S., Jung, Y.-C., & Ahn, W.-Y. (2026). *PsyArXiv* 
 
 ---
 Hyeonmin Lee, Manjae Kwon, *Jeung-Hyun Lee*, Mina Kwon, Suyeon Song, Deokjong Lee, Jung-Seok Choi, Young-Chul Jung, & Woo-Young Ahn. (2026). *PsyArXiv* 
